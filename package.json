@@ -29,6 +29,9 @@
   },
   "dependencies": {
     "@nuxt/kit": "^3.8.2",
+    "@nuxtjs/tailwindcss": "^6.10.1",
+    "@vueuse/core": "^10.7.0",
+    "@vueuse/nuxt": "^10.7.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.0.1",
     "less": "^4.2.0",

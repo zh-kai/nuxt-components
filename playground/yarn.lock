@@ -570,6 +570,11 @@
   resolved "https://registry.yarnpkg.com/@fastify/busboy/-/busboy-2.1.0.tgz#0709e9f4cb252351c609c6e6d8d6779a8d25edff"
   integrity sha512-+KpH+QxZU7O4675t3mnkQKcZZg56u+K/Ct2K+N2AZYNVK8kyeo/bI18tI8aPm3tvNNRyTWfj6s5tnGNlcbQRsA==
 
+"@freeloop/tailwindcss-mask@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@freeloop/tailwindcss-mask/-/tailwindcss-mask-0.1.0.tgz#b911142d54127bc51d31181242909600e0966922"
+  integrity sha512-hHUQJi3iANaXWWSoOgrZvNqhjglL+cUVY8qfAPA51csSMzPt3VzUAaUB9spd1RPjrzNGTOc7/E6T5XZtjzxGhQ==
+
 "@ioredis/commands@^1.1.1":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@ioredis/commands/-/commands-1.2.0.tgz#6d61b3097470af1fdbbe622795b8921d42018e11"
