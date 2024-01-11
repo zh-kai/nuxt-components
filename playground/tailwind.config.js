@@ -6,5 +6,8 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [require("@freeloop/tailwindcss-mask")],
+  plugins: [
+    require("@freeloop/tailwindcss-mask"),
+    require("@freeloop/tailwindcss-backgrounds"),
+  ],
 };
